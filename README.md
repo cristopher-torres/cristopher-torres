@@ -76,12 +76,15 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="metrics/stats.svg" width="440" alt="Estadísticas de Cristopher">
-</p>
-
-<p align="center">
-  <img src="metrics/languages.svg" width="440" alt="Lenguajes más usados">
-</p>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="metrics/stats.svg" width="100%" alt="Estadísticas de Cristopher">
+    </td>
+    <td width="50%" valign="top">
+      <img src="metrics/languages.svg" width="100%" alt="Lenguajes más usados">
+    </td>
+  </tr>
+</table>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
