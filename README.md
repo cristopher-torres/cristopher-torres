@@ -6,13 +6,13 @@
 
 <p align="center">
   <i>Soy estudiante de <b>Ingeniería</b> en la <a href="https://www.usach.cl"><b>Universidad de Santiago de Chile</b></a>.</i><br>
-  <i>Me enfoco en el <b>Desarrollo Full-Stack</b> 💻, con especial interés en el <b>Backend</b> y el mundo <b>DevOps</b> ⚙️.</i><br>
+  <i>Actualmente tengo conocimiento en <b>Desarrollo Full-Stack</b> 💻 y <b>DevSecOps</b> ⚙️.</i><br>
   <i>Me gusta entender cómo funciona todo, desde el código hasta el servidor donde corre 🚀</i>
 </p>
 
 <p align="center">
   <a href="https://github.com/cristopher-torres">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Java+%2B+Spring+Boot+%2B+React;Docker+%7C+Kubernetes+%7C+Jenkins" alt="Full Stack Developer">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Web+Developer;Cybersecurity;Java+%2B+Spring+Boot+%2B+React;Docker+%7C+Kubernetes+%7C+Jenkins" alt="Full Stack Developer">
   </a>
 </p>
 
