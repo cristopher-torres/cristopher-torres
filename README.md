@@ -5,7 +5,13 @@
 <h3 align="center">Software Engineer</h3>
 
 <p align="center">
-  <i>Soy estudiante de <b>Ingeniería</b> en la <a href="https://www.usach.cl"><b>Universidad de Santiago de Chile</b></a>.</i><br>
+  <a href="https://www.linkedin.com/in/cristopher-torres-a801893b8/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
+  </a>
+</p>
+
+<p align="center">
+  <i>Soy estudiante de <b>Ingeniería de Ejecución en Computación e Informática</b> en la <a href="https://www.usach.cl"><b>Universidad de Santiago de Chile</b></a>.</i><br>
   <i>Actualmente tengo conocimiento en <b>Desarrollo Full-Stack</b> 💻 y <b>DevSecOps</b> ⚙️.</i><br>
   <i>Me gusta entender cómo funciona todo, desde el código hasta el servidor donde corre 🚀</i>
 </p>
