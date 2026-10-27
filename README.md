@@ -44,16 +44,28 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prolog/prolog-original.svg" height="48" alt="Prolog" title="Prolog">
 </p>
 
-## 🧩 Frameworks y librerías
+## 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,react,vue,materialui,vite" alt="Spring Boot, Node.js, React, Vue, Material UI, Vite">
+  <img src="https://skillicons.dev/icons?i=react,vue,materialui,vite" alt="React, Vue, Material UI, Vite">
+</p>
+
+## ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs" alt="Spring Boot, Node.js">
 </p>
 
 ## 🗄️ Bases de datos
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="MySQL, PostgreSQL">
+</p>
+
+## 💾 Storage
+
+<p>
+  <img src="https://skillicons.dev/icons?i=windows,linux" alt="Windows, Linux">
 </p>
 
 ## 🛠️ Herramientas
@@ -76,15 +88,9 @@
 
 ## 📈 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <img src="metrics/stats.svg" width="100%" alt="Estadísticas de Cristopher">
-    </td>
-    <td width="50%" valign="top">
-      <img src="metrics/languages.svg" width="100%" alt="Lenguajes más usados">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="metrics/stats.svg" width="49%" align="top" alt="Estadísticas de Cristopher">
+  <img src="metrics/languages.svg" width="49%" align="top" alt="Lenguajes más usados">
+</p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
