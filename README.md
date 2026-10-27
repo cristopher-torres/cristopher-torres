@@ -82,11 +82,11 @@
     <th align="center"><i>Lenguajes más usados</i></th>
   </tr>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=cristopher-torres&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Estadísticas de Cristopher">
+    <td width="50%" valign="top">
+      <img src="metrics/stats.svg" width="100%" alt="Estadísticas de Cristopher">
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristopher-torres&layout=compact&langs_count=6&hide=html&theme=tokyonight&hide_border=true" alt="Lenguajes más usados">
+    <td width="50%" valign="top">
+      <img src="metrics/languages.svg" width="100%" alt="Lenguajes más usados">
     </td>
   </tr>
 </table>
