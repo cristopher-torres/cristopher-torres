@@ -38,7 +38,7 @@
 ## 💻 Lenguajes
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css" alt="Java, JavaScript, TypeScript, HTML, CSS">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,py,html,css" alt="Java, JavaScript, TypeScript, Python, HTML, CSS">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/racket/racket-original.svg" height="48" alt="Racket" title="Racket">
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prolog/prolog-original.svg" height="48" alt="Prolog" title="Prolog">
@@ -76,19 +76,12 @@
 
 ## 📈 GitHub Stats
 
-<table align="center">
-  <tr>
-    <th align="center"><i>Estadísticas</i></th>
-    <th align="center"><i>Lenguajes más usados</i></th>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="metrics/stats.svg" width="100%" alt="Estadísticas de Cristopher">
-    </td>
-    <td width="50%" valign="top">
-      <img src="metrics/languages.svg" width="100%" alt="Lenguajes más usados">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="metrics/stats.svg" width="600" alt="Estadísticas de Cristopher">
+</p>
+
+<p align="center">
+  <img src="metrics/languages.svg" width="600" alt="Lenguajes más usados">
+</p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">

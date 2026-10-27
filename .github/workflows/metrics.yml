@@ -35,6 +35,19 @@ jobs:
           repositories_affiliations: owner, collaborator, organization_member
           config_timezone: America/Santiago
           config_twemoji: yes
+          # Estilo oscuro azul (Tokyo Night)
+          extras_css: |
+            .items-wrapper { background: #1a1b27; border: 1px solid #2f3449; border-radius: 14px; padding: 10px 14px 12px; }
+            svg { color: #a9b1d6; }
+            h1, h2 { color: #70a5fd; }
+            h1 span { color: #70a5fd; }
+            .field svg { fill: #bf91f3; }
+            .calendar .day { outline: none; }
+            .calendar .day[fill="#ebedf0"] { fill: #2f3449; }
+            .calendar .day[fill="#9be9a8"] { fill: #1f4f8f; }
+            .calendar .day[fill="#40c463"] { fill: #3b7dd8; }
+            .calendar .day[fill="#30a14e"] { fill: #5c9cf5; }
+            .calendar .day[fill="#216e39"] { fill: #7aa2f7; }
 
       # Lenguajes más usados (incluye repos privados y colaboraciones)
       - name: Lenguajes
@@ -53,3 +66,9 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_ignored: html
           plugin_languages_colors: github
+          # Estilo oscuro azul (Tokyo Night)
+          extras_css: |
+            .items-wrapper { background: #1a1b27; border: 1px solid #2f3449; border-radius: 14px; padding: 10px 14px 12px; }
+            svg { color: #a9b1d6; }
+            h1, h2 { color: #70a5fd; }
+            .field svg { fill: #bf91f3; }
